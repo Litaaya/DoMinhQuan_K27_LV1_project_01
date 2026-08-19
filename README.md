@@ -1,5 +1,3 @@
-# Mục lục
-
 # Tải về local
 
 ```bash
